@@ -17,7 +17,7 @@ To use the Language Translator project, you need to follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required libraries.
-3. Run the `translator.ipynb`
+3. Run the `Language Translator.ipynb`
 
 ## Auto-Correct Tool
 
@@ -35,5 +35,5 @@ To use the Auto-Correct Tool, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required libraries
-3. Run the `auto_correct.ipynb` .
+3. Run the `auto-correct.ipynb` .
 
